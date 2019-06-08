@@ -1,7 +1,7 @@
-package client;
+package edu.alenasoft.solid.client;
 
-import application.DisplayBehavior;
-import application.SoundBehavior;
+import edu.alenasoft.solid.application.DisplayBehavior;
+import edu.alenasoft.solid.application.SoundBehavior;
 
 public class Robot implements Sprite {
 

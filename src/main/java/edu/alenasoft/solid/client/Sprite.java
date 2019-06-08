@@ -1,4 +1,4 @@
-package client;
+package edu.alenasoft.solid.client;
 
 public interface Sprite {
 

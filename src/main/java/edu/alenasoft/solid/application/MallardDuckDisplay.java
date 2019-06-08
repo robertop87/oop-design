@@ -1,4 +1,4 @@
-package application;
+package edu.alenasoft.solid.application;
 
 public class MallardDuckDisplay implements DisplayBehavior {
 

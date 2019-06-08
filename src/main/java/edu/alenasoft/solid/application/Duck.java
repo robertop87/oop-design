@@ -1,6 +1,6 @@
-package application;
+package edu.alenasoft.solid.application;
 
-import client.Sprite;
+import edu.alenasoft.solid.client.Sprite;
 
 public class Duck implements Sprite {
 
